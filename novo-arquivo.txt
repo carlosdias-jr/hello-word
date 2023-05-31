@@ -1,1 +1,3 @@
 Arquivo Dev1 - cdias.lab
+--------------------------
+Dia 1 - aprendendo a utilizar o gitHub.
